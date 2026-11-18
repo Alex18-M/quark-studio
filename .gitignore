@@ -1,0 +1,4 @@
+node_modules
+dist
+server/mensajes.json
+.DS_Store
